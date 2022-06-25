@@ -1,0 +1,19 @@
+{
+  "name": "csi445_event-finder",
+  "version": "1.0.0",
+  "description": "It is first task of celebal summer internship. csi445 - Shah Dhruvi Nikhilkumar",
+  "main": "index.js",
+  "scripts": {
+   "start" : "nodemon index.js"
+  },
+  "author": "CSI445 - Shah Dhruvi Nikhilkumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
